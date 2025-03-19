@@ -3,6 +3,7 @@
 ### my_storytelling
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
+"LA ÚLTIMA VERDAD"
 
 Autores:  
 <!---
@@ -10,13 +11,14 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Hugo Olivencia Yáñez
+- :woman: Laura Faya Millán
+- :woman: Paula Ponz Roldán
+- :woman: Andrea Puertas Jiménez
 
 
-Proyecto (código): 
-URL (link) del proyecto en Github: 
+Proyecto (código): G8F
+URL (link) del proyecto en Github: https://github.com/hugoolivencia/RobertWilliams
 
 
 Tipo/Género:  
@@ -26,14 +28,14 @@ Tipo/Género:
 
 
 
-## Resumen
+## Sinopsis
+Un importante periódico de EEUU destapa crímenes del nuevo presidente de Estados Unidos, como fraude electoral, violación, colaboración con narcotraficantes. Al hacerse pública la investigación, los periodistas enfrentan una persecución y presión: amenazas de muerte, espionaje y presiones legales por parte del gobierno y otros terceros. Mientras la redacción lucha por seguir adelante, uno de los reporteros sigue la investigación por su cuenta. La trama se centra en la lucha por exponer la corrupción y la impunidad del presidente, mientras arriesgan sus vidas en defensa de la verdad.
 
 
 ### Personaje
+![Imagen de WhatsApp 2025-03-19 a las 12 11 30_5a50322d](https://github.com/user-attachments/assets/f1487099-d23f-40a1-a49e-8b7966d725b8)
 
 ![](img-nobody.png)
-
-Nombre: 
 
 
 ### Historia
@@ -46,8 +48,8 @@ Nombre:
 
 
 ### Productos
-
-- Personaje: (img personaje y enlace a interactivo) 
+Quiz de Personalidad:
+- ¿Qué personaje eres?: https://app.lumi.education/run/mgJaWi
 
 
 - Banner/Teaser:  (enlace) 
